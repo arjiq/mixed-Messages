@@ -1,0 +1,16 @@
+#name {
+    padding-top: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+#button {
+  padding-top: 10px;
+    text-align: center;
+}
+
+#messageDisplay {
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 10px;
+}
